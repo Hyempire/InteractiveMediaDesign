@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{4693290F-36C6-1C89-F3E3-7D249CFD58EF}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/PenguinController.cs">
+    <Files>
+      <File FileName="Assets/firstPersonCamera.cs" Line="16" Column="36" />
+      <File FileName="Assets/PenguinController.cs" Line="30" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="UnderwaterLandscape" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="PenguinController.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="0078dbf2-1aeb-47ee-9251-d6cf4018437b" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
