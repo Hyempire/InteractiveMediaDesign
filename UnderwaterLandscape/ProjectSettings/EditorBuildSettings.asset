@@ -4,5 +4,10 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
-  m_configObjects: {}
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Underwater.unity
+    guid: f12587dc544228643bf3ae329fece6f3
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 12625300703224961af32b8809e0465a, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 1128dbff4d95c483ab2e754fd30fdbc6, type: 2}

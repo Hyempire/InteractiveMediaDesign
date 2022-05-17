@@ -1,0 +1,4 @@
+#Tue May 17 17:21:53 KST 2022
+base.0=/Users/ys/Documents/InteractiveMediaDesign/UnderwaterLandscape/Temp/gradleOut/launcher/build/intermediates/dex/release/mergeDexRelease/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
