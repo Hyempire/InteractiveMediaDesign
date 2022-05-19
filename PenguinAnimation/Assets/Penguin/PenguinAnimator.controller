@@ -166,7 +166,7 @@ AnimatorController:
     m_Controller: {fileID: 9100000}
   m_AnimatorLayers:
   - serializedVersion: 5
-    m_Name: Level1
+    m_Name: PenguinAnim
     m_StateMachine: {fileID: 7259267223117348722}
     m_Mask: {fileID: 0}
     m_Motions: []
@@ -314,7 +314,7 @@ AnimatorStateMachine:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Level1
+  m_Name: PenguinAnim
   m_ChildStates:
   - serializedVersion: 1
     m_State: {fileID: 4565782769144432375}
